@@ -1,0 +1,22 @@
+# Rust-specific
+/target
+**/*.rs.bk
+Cargo.lock
+
+# Dioxus-specific
+/dist
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# macOS-specific
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dependency directories (if any)
+node_modules/
